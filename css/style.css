@@ -63,3 +63,7 @@ tr {
     background-attachment: fixed;
     background-size:  100%;
 }
+
+#info {
+    background-color: rgba(200, 200, 200 , 0.5);
+}
